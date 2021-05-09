@@ -72,10 +72,6 @@ p {
   justify-content: space-between;
 }
 
-/* .card-text li p {
-  margin-top: -10px;
-} */
-
 /* Maximum width */
 @media (max-width: 650px) {
   .card {
